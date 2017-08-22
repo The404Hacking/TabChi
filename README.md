@@ -27,7 +27,7 @@ use `./start.sh ` for Autolaunch
 
 ## Developer
 
-[Mr.Hidden (Amir Hossein.Y)](https://telegram.me/MrHiddenRoBot)
+[Sir.4m1R](https://telegram.me/Sir4m1R)
 
 ### Powered by [The404Hacking](https://telegram.me/the404hacking)
 
